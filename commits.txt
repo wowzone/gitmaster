@@ -1,0 +1,35 @@
+commit f0e2ad007d6373ebdd2b89444d259bf251391140
+Author: Keyser Abarca <Keyser@bextrade.com>
+Date:   Wed Aug 12 01:55:09 2015 -0600
+
+    agregue el portafolio
+
+commit 1a192c011ff87a6650bd7ad93ffa4d869611fcbc
+Author: Keyser Abarca <Keyser@bextrade.com>
+Date:   Wed Aug 12 01:52:37 2015 -0600
+
+    agrugue descripcion
+
+commit d9e255dece40c2c487eab7c67820e1e3746a8059
+Author: Keyser Abarca <Keyser@bextrade.com>
+Date:   Wed Aug 12 01:49:07 2015 -0600
+
+    agregue perfiles de redes sociales
+
+commit b5d60282d71fdb5f7f7e152155953e32efd4ac92
+Author: Keyser Abarca <Keyser@bextrade.com>
+Date:   Wed Aug 12 01:47:02 2015 -0600
+
+    escribi el perfil
+
+commit 7cc1c735f9b29c63a7463aa6851b004c0141916d
+Author: Keyser Abarca <Keyser@bextrade.com>
+Date:   Wed Aug 12 01:42:50 2015 -0600
+
+    upload foto de perfil y nombre
+
+commit 4ec4d0a2ac7851003624974cf1abf7e13c058f53
+Author: Keyser Abarca <Keyser@bextrade.com>
+Date:   Wed Aug 12 01:29:52 2015 -0600
+
+    estos son los archivos de mi portafolio
